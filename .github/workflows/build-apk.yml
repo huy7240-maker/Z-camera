@@ -1,4 +1,4 @@
-name: Build Xiaomi 14 Pro Cam APK v1.01
+name: Build Xiaomi 14 Pro Cam APK v1
 
 on:
   push:
